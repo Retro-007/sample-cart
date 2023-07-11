@@ -1,0 +1,62 @@
+[
+    {
+        "id": "001",
+        "name": "The Great Gatsby",
+        "price": 10.99,
+        "imgUrl": "https://via.placeholder.com/300"
+    },
+    {
+        "id": "002",
+        "name": "To Kill a Mockingbird",
+        "price": 12.99,
+        "imgUrl": "https://via.placeholder.com/300"
+    },
+    {
+        "id": "003",
+        "name": "Pride and Prejudice",
+        "price": 9.99,
+        "imgUrl": "https://via.placeholder.com/300"
+    },
+    {
+        "id": "004",
+        "name": "1984",
+        "price": 11.99,
+        "imgUrl": "https://via.placeholder.com/300"
+    },
+    {
+        "id": "005",
+        "name": "The Catcher in the Rye",
+        "price": 8.99,
+        "imgUrl": "https://via.placeholder.com/300"
+    },
+    {
+        "id": "006",
+        "name": "Harry Potter and the Philosopher's Stone",
+        "price": 14.99,
+        "imgUrl": "https://via.placeholder.com/300"
+    },
+    {
+        "id": "007",
+        "name": "To Kill a Kingdom",
+        "price": 13.99,
+        "imgUrl": "https://via.placeholder.com/300"
+    },
+    {
+        "id": "008",
+        "name": "The Hobbit",
+        "price": 10.49,
+        "imgUrl": "https://via.placeholder.com/300"
+    },
+    {
+        "id": "009",
+        "name": "The Alchemist",
+        "price": 9.49,
+        "imgUrl": "https://via.placeholder.com/300"
+    },
+    {
+        "id": "010",
+        "name": "The Lord of the Rings: The Fellowship of the Ring",
+        "price": 15.99,
+        "imgUrl": "https://via.placeholder.com/300"
+    }
+]
