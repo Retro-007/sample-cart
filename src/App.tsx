@@ -1,16 +1,16 @@
-import React from 'react'
 import { Container } from 'react-bootstrap'
 import { Routes, Route } from "react-router-dom"
 import Home from './pages/Home'
 import Store from './pages/Store'
 import About from './pages/About'
 import Navbar from './components/Navbar'
+import { ShoppingCartProvider } from './context/ShoppingCartContext'
 
 
 function App() {
 
   return (
-    <React.Fragment>
+    <ShoppingCartProvider>
       <Navbar />
       <Container className='mb-4'>
         <Routes>
@@ -20,7 +20,7 @@ function App() {
           <Route path="/about" element={<About />} />
         </Routes>
       </Container>
-    </React.Fragment>
+    </ShoppingCartProvider>
   )
 }
 
